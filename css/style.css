@@ -7,7 +7,7 @@ body{
     background: #13151D !important;
 }
 
-#inicio{
+#inicio-active{
     background: url("../img/adults-analysis-banking-1451447.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,5 +21,8 @@ body{
     padding-top: 400px;
 }
 #llamado-accion{
+    background: #df2176;
+}
+#footer{
     background: #df2176;
 }
